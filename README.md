@@ -52,6 +52,8 @@ The six-wheel chassis will serve as the base for:
 - Battery and power-management components
 - Control electronics
 
+Know more about required-hardware.md
+
 Operating Modes
 
 The robot is planned to support two primary operating modes:
