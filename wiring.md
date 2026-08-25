@@ -51,7 +51,7 @@
 | GND | ESP32-S3 CAM | GND | Common Ground |
 | GND | PCA9685 | GND | Common Ground |
 
-Note: In the path of GPIO input pin and ECHO pin of HC-SR04, there must be a resistor of  1kΩ.And the GPIO input pin and Common ground connected through 2kΩ. Select ESP32S3 as a board type, then select ESP32S3 dev module and Give value of property in settings which is given here. The capacitor should be 470µF – 1000µF (electrolytic). The pins BM of BMS board should be connected with middle point of series.
+**Note**: In the path of GPIO input pin and ECHO pin of HC-SR04, there must be a resistor of  1kΩ.And the GPIO input pin and Common ground connected through 2kΩ. Select ESP32S3 as a board type, then select ESP32S3 dev module and Give value of property in settings which is given here. The capacitor should be 470µF – 1000µF (electrolytic). The pins BM of BMS board should be connected with middle point of series.
 
 | Servo | Channel |
 |---|---|
