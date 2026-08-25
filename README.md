@@ -19,6 +19,8 @@ In autonomous mode, the camera system is designed to detect a person within its 
 
 The robot can automatically adjust its movement to follow the detected person while continuously updating the camera's orientation. This allows the robot to maintain visual tracking without requiring constant manual control.
 
+Know more about [Wiring](wiring.md)
+
 Pan-and-Tilt Camera System
 
 The ESP32-CAM is mounted on a two-axis servo mechanism.
