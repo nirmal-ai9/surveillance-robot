@@ -19,3 +19,11 @@
 | Core Debug Level | None |
 | Erase All Flash Before Sketch Upload | Disabled |
 | Zigbee Mode | Disabled |
+
+# Libraries 
+
+| Libraries which should be downloaded |
+|---|
+| 1.Adafruit PWM Servo Driver Library |
+| 2.Adafruit BusIO |
+| 3.EloquentTinyML |
