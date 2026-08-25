@@ -68,6 +68,8 @@ The user controls the robot remotely through the web interface. The live camera 
 
 The robot uses its camera and detection system to identify and track a person. The movement of the robot and camera can be adjusted automatically based on the detected person's position.
 
+Know more about [Settings in ESP32-S3](settings.md)
+
 Project Goal
 
 The primary goal of this project is to create a compact, Wi-Fi-enabled robotic platform that combines remote control, live video streaming, pan-and-tilt camera control, obstacle avoidance, and autonomous person tracking into a single system.
